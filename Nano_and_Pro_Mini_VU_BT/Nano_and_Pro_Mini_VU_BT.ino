@@ -1,6 +1,6 @@
 #include <Adafruit_NeoPixel.h>
 #include <FastLED.h>
-#include <SoftwareSerial.h>
+#include <SoftwareSerial.h>  // RX = 10, TX = 11
 #define PIN 6
 #define N_PIXELS  50
 #define BG 0
